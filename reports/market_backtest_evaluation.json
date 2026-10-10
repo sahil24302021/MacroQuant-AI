@@ -1,0 +1,125 @@
+{
+  "ticker": "SPY",
+  "data_provenance": "real_yahoo_finance",
+  "evaluation_type": "chronological_walk_forward_out_of_sample",
+  "total_observations": 246,
+  "out_of_sample_observations": 123,
+  "out_of_sample_date_range": {
+    "start": "2026-04-15",
+    "end": "2026-10-08"
+  },
+  "transaction_cost_bps": 2.0,
+  "ml_ensemble_strategy": {
+    "cumulative_return": 0.018565,
+    "annualized_return": 0.044938,
+    "annualized_volatility": 0.121021,
+    "sharpe_ratio": 0.3713,
+    "sortino_ratio": 0.6605,
+    "max_drawdown": -0.065037,
+    "win_rate": 0.4878,
+    "sample_size": 123
+  },
+  "benchmark_buy_and_hold": {
+    "cumulative_return": 0.117973,
+    "annualized_return": 0.235749,
+    "annualized_volatility": 0.12025,
+    "sharpe_ratio": 1.9605,
+    "sortino_ratio": 3.1629,
+    "max_drawdown": -0.044947,
+    "win_rate": 0.5122,
+    "sample_size": 123
+  },
+  "folds": [
+    {
+      "cumulative_return": -0.029541,
+      "annualized_return": -0.176119,
+      "annualized_volatility": 0.129248,
+      "sharpe_ratio": -1.3626,
+      "sortino_ratio": -2.6785,
+      "max_drawdown": -0.065037,
+      "win_rate": 0.439,
+      "sample_size": 41,
+      "fold": 1,
+      "test_start": "2026-04-15",
+      "test_end": "2026-06-11"
+    },
+    {
+      "cumulative_return": 0.063699,
+      "annualized_return": 0.388742,
+      "annualized_volatility": 0.135281,
+      "sharpe_ratio": 2.8736,
+      "sortino_ratio": 5.1286,
+      "max_drawdown": -0.031745,
+      "win_rate": 0.5122,
+      "sample_size": 41,
+      "fold": 2,
+      "test_start": "2026-06-12",
+      "test_end": "2026-08-11"
+    },
+    {
+      "cumulative_return": -0.013283,
+      "annualized_return": -0.077809,
+      "annualized_volatility": 0.094464,
+      "sharpe_ratio": -0.8237,
+      "sortino_ratio": -1.1945,
+      "max_drawdown": -0.04832,
+      "win_rate": 0.5122,
+      "sample_size": 41,
+      "fold": 3,
+      "test_start": "2026-08-12",
+      "test_end": "2026-10-08"
+    }
+  ],
+  "rule_based_strategies": {
+    "buy_hold": {
+      "cumulative_return": 0.191223,
+      "annualized_return": 0.187399,
+      "annualized_volatility": 0.127462,
+      "sharpe_ratio": 1.4702,
+      "sortino_ratio": 2.2666,
+      "max_drawdown": -0.08885,
+      "win_rate": 0.5325,
+      "sample_size": 246
+    },
+    "mom_10d": {
+      "cumulative_return": -0.136371,
+      "annualized_return": -0.141984,
+      "annualized_volatility": 0.127934,
+      "sharpe_ratio": -1.1098,
+      "sortino_ratio": -1.6902,
+      "max_drawdown": -0.179825,
+      "win_rate": 0.4512,
+      "sample_size": 246
+    },
+    "mom_5d": {
+      "cumulative_return": -0.022506,
+      "annualized_return": -0.01518,
+      "annualized_volatility": 0.127798,
+      "sharpe_ratio": -0.1188,
+      "sortino_ratio": -0.1847,
+      "max_drawdown": -0.120736,
+      "win_rate": 0.4593,
+      "sample_size": 246
+    },
+    "mean_rev_5d": {
+      "cumulative_return": -0.040368,
+      "annualized_return": -0.037036,
+      "annualized_volatility": 0.101912,
+      "sharpe_ratio": -0.3634,
+      "sortino_ratio": -0.4523,
+      "max_drawdown": -0.122808,
+      "win_rate": 0.3089,
+      "sample_size": 246
+    },
+    "macro_shock": {
+      "cumulative_return": -0.001257,
+      "annualized_return": 0.000543,
+      "annualized_volatility": 0.060617,
+      "sharpe_ratio": 0.009,
+      "sortino_ratio": 0.0067,
+      "max_drawdown": -0.094342,
+      "win_rate": 0.1057,
+      "sample_size": 246
+    }
+  }
+}

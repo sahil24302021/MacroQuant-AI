@@ -1,11 +1,170 @@
 event_id,timestamp_utc,event_name,country,category,actual,forecast,previous,surprise,impact,source,data_provenance,timezone_original
-REAL-APIFY-00001,2026-10-05T06:00:00+00:00,OPEC Meeting,United States,Monetary & Energy Policy,,,,,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00002,2026-10-05T18:00:00+00:00,S&P Global Manufacturing & Services PMI,Australia,Business Activity,51.3,50.8,,0.5,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00003,2026-10-05T18:00:00+00:00,S&P Global Services PMI,Australia,Business Activity,51.9,51.4,,0.5,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00004,2026-10-05T20:00:00+00:00,MI Inflation Gauge,Australia,Inflation,0.3,,,,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00005,2026-10-05T20:00:00+00:00,ANZ Commodity Price Index,New Zealand,Inflation,0.6,,,,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00006,2026-10-05T20:30:00+00:00,Manufacturing & Services PMI,Japan,Business Activity,52.3,52.5,,-0.2,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00007,2026-10-05T20:30:00+00:00,S&P Global Services PMI,Japan,Business Activity,51.3,51.6,,-0.3,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00008,2026-10-06T01:00:00+00:00,Household Confidence,Japan,Consumer & Retail,35.4,35.3,,0.1,Medium,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00009,2026-10-06T01:00:00+00:00,Retail Sales,Singapore,Consumer & Retail,0.7,,,,High,apify_economic_calendar,real_verified,unspecified
-REAL-APIFY-00010,2026-10-06T01:00:00+00:00,Retail Sales,Singapore,Consumer & Retail,-1.0,,,,High,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00001,2026-04-15T00:30:00+00:00,Capacity Utilization,Japan,Macroeconomic Release,-0.1,,2.9,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00002,2026-04-15T00:30:00+00:00,Industrial Production,Japan,Macroeconomic Release,-2.0,-2.1,4.3,0.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00003,2026-04-15T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,4.1,,1.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00004,2026-04-15T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,2.7,0.4,0.6,2.3,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00005,2026-04-15T03:00:00+00:00,Core CPI,Spain,Inflation,2.9,2.7,2.7,0.2,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00006,2026-04-15T03:00:00+00:00,Spanish CPI,Spain,Inflation,1.2,1.0,0.4,0.2,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00007,2026-04-15T03:00:00+00:00,Spanish CPI,Spain,Inflation,3.4,3.3,2.3,0.1,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00008,2026-04-15T03:00:00+00:00,Spanish HICP,Spain,Macroeconomic Release,1.7,1.5,0.4,0.2,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00009,2026-04-15T03:00:00+00:00,Spanish HICP,Spain,Macroeconomic Release,3.4,3.3,2.5,0.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00010,2026-04-15T04:40:00+00:00,Spanish 3-Month Letras Auction,Spain,Macroeconomic Release,2.111,,1.964,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00011,2026-04-26T12:00:00+00:00,U.S. President Trump Speaks,United States,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00012,2026-04-27T19:00:00+00:00,U.S. President Trump Speaks,United States,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00013,2026-04-27T21:30:00+00:00,Chinese Industrial profit YTD,China,Macroeconomic Release,15.5,,15.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00014,2026-04-28T01:00:00+00:00,Coincident Indicator,Japan,Macroeconomic Release,-1.8,-1.6,3.4,-0.2,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00015,2026-04-28T01:00:00+00:00,Leading Index,Japan,Macroeconomic Release,1.3,0.3,1.7,1.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00016,2026-04-28T01:00:00+00:00,Leading Index,Japan,Macroeconomic Release,113.3,112.4,112.0,0.9,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00017,2026-04-28T01:00:00+00:00,Industrial Production,Singapore,Macroeconomic Release,10.1,,3.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00018,2026-04-28T01:00:00+00:00,Industrial Production,Singapore,Macroeconomic Release,4.7,,-1.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00019,2026-04-28T02:00:00+00:00,GfK German Consumer Climate,Germany,Consumer & Retail,-33.3,-30.2,-28.1,-3.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00020,2026-05-07T01:00:00+00:00,HSBC India Services PMI,India,Business Activity,58.8,57.9,57.5,0.9,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00021,2026-05-07T01:00:00+00:00,HSBC Manufacturing & Services PMI,India,Business Activity,58.2,58.3,57.0,-0.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00022,2026-05-07T02:00:00+00:00,S&P Global Services PMI,Russia,Business Activity,49.7,,49.5,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00023,2026-05-07T02:45:00+00:00,French Industrial Production,France,Macroeconomic Release,1.0,0.5,-0.9,0.5,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00024,2026-05-07T03:15:00+00:00,HCOB Spain Services PMI,Spain,Business Activity,47.9,51.9,53.3,-4.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00025,2026-05-07T03:15:00+00:00,S&P Global Manufacturing PMI,South Africa,Business Activity,51.6,,50.8,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00026,2026-05-07T03:30:00+00:00,German Buba Vice President Buch Speaks,Germany,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00027,2026-05-07T03:45:00+00:00,HCOB Italy Composite PMI,Italy,Business Activity,50.5,,49.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00028,2026-05-07T03:45:00+00:00,HCOB Italy Services PMI,Italy,Business Activity,49.8,47.9,48.8,1.9,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00029,2026-05-07T03:50:00+00:00,HCOB France Composite PMI,France,Business Activity,47.6,47.6,48.8,0.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00030,2026-05-18T18:30:00+00:00,Performance of Services Index,New Zealand,Business Activity,48.9,,46.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00031,2026-05-18T19:01:00+00:00,Rightmove House Price Index,United Kingdom,Inflation,1.2,,0.8,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00032,2026-05-18T19:01:00+00:00,Rightmove House Price Index,United Kingdom,Inflation,-0.3,,-0.9,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00033,2026-05-18T20:30:00+00:00,Non-Oil Exports,Singapore,Macroeconomic Release,11.0,,3.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00034,2026-05-18T20:30:00+00:00,Non-Oil Exports,Singapore,Macroeconomic Release,24.5,,15.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00035,2026-05-18T20:30:00+00:00,Trade Balance,Singapore,Macroeconomic Release,13068000000.0,,11120000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00036,2026-05-18T21:30:00+00:00,House Prices,China,Macroeconomic Release,-3.5,,-3.4,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00037,2026-05-18T22:00:00+00:00,Fixed Asset Investment,China,Macroeconomic Release,-1.6,1.7,1.7,-3.3,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00038,2026-05-18T22:00:00+00:00,Industrial Production,China,Macroeconomic Release,4.1,6.0,5.7,-1.9,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00039,2026-05-18T22:00:00+00:00,Chinese Industrial Production YTD,China,Macroeconomic Release,5.6,,6.1,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00040,2026-05-29T02:30:00+00:00,Employment Level,Switzerland,Employment,5537000.0,,5544000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00041,2026-05-29T02:45:00+00:00,French PPI,France,Macroeconomic Release,-2.1,,1.9,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00042,2026-05-29T02:45:00+00:00,PPI,France,Macroeconomic Release,2.1,,0.0,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00043,2026-05-29T03:00:00+00:00,Spanish Retail Sales,Spain,Consumer & Retail,0.8,,4.1,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00044,2026-05-29T03:10:00+00:00,ECB President Lagarde Speaks,Euro Zone,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00045,2026-05-29T03:15:00+00:00,ECB's Lane Speaks,Euro Zone,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00046,2026-05-29T04:00:00+00:00,Italian Business Confidence,Italy,Consumer & Retail,87.9,87.5,87.9,0.4,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00047,2026-05-29T04:00:00+00:00,Italian Consumer Confidence,Italy,Consumer & Retail,93.4,90.1,90.8,3.3,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00048,2026-05-29T04:05:00+00:00,BoE Breeden Speaks,United Kingdom,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00049,2026-05-29T04:30:00+00:00,Exports,Hong Kong,Macroeconomic Release,42.9,,35.8,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00050,2026-06-09T01:00:00+00:00,Economy Watchers Current Index,Japan,Macroeconomic Release,43.6,41.9,40.8,1.7,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00051,2026-06-09T02:00:00+00:00,German Factory Orders,Germany,Macroeconomic Release,-3.8,-2.2,4.5,-1.6,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00052,2026-06-09T03:00:00+00:00,German Buba Balz Speaks,Germany,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00053,2026-06-09T04:30:00+00:00,Sentix Investor Confidence,Euro Zone,Consumer & Retail,-13.4,-13.8,-16.4,0.4,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00054,2026-06-09T05:00:00+00:00,Foreign Reserves USD,Singapore,Macroeconomic Release,430100000000.0,,427300000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00055,2026-06-09T05:45:00+00:00,Trade Balance (USD),India,Macroeconomic Release,-83400000000.0,,-93600000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00056,2026-06-09T06:00:00+00:00,Leading Index,Canada,Macroeconomic Release,0.11,,0.12,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00057,2026-06-09T07:00:00+00:00,Balance of Payments (USD),India,Macroeconomic Release,7200000000.0,,-24400000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00058,2026-06-09T07:00:00+00:00,Current Account % of GDP,India,Economic Growth,0.7,,-1.3,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00059,2026-06-09T07:00:00+00:00,Current Account % of GDP,India,Economic Growth,-0.6,,-0.7,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00060,2026-06-20T02:00:00+00:00,Core Retail Sales,United Kingdom,Consumer & Retail,1.2,0.4,-0.1,0.8,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00061,2026-06-20T02:00:00+00:00,Core Retail Sales,United Kingdom,Consumer & Retail,4.6,3.3,1.1,1.3,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00062,2026-06-20T02:00:00+00:00,Public Sector Net Borrowing,United Kingdom,Macroeconomic Release,23300000000.0,19000000000.0,24300000000.0,4300000000.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00063,2026-06-20T02:00:00+00:00,Public Sector Net Cash Requirement,United Kingdom,Macroeconomic Release,24069000000.0,,9458000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00064,2026-06-20T02:00:00+00:00,Retail Sales,United Kingdom,Consumer & Retail,1.2,0.5,-1.0,0.7,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00065,2026-06-20T02:00:00+00:00,Retail Sales,United Kingdom,Consumer & Retail,3.2,1.9,0.1,1.3,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00066,2026-06-20T02:00:00+00:00,German PPI,Germany,Macroeconomic Release,2.2,2.5,1.7,-0.3,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00067,2026-06-20T02:00:00+00:00,German PPI,Germany,Macroeconomic Release,0.3,0.7,1.2,-0.4,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00068,2026-06-20T03:10:00+00:00,ECB's Lane Speaks,Euro Zone,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00069,2026-06-20T06:30:00+00:00,Interest Rate Decision,Russia,Monetary & Energy Policy,14.25,14.0,14.5,0.25,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00070,2026-07-01T01:00:00+00:00,Construction Orders,Japan,Macroeconomic Release,-6.7,,-32.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00071,2026-07-01T01:00:00+00:00,Housing Starts,Japan,Macroeconomic Release,33.9,31.8,11.4,2.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00072,2026-07-01T02:00:00+00:00,Business Investment,United Kingdom,Macroeconomic Release,0.9,0.7,-3.0,0.2,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00073,2026-07-01T02:00:00+00:00,Business Investment,United Kingdom,Macroeconomic Release,-1.3,-1.8,1.8,0.5,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00074,2026-07-01T02:00:00+00:00,Current Account,United Kingdom,Macroeconomic Release,-22100000000.0,-22200000000.0,-27200000000.0,100000000.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00075,2026-07-01T02:00:00+00:00,GDP,United Kingdom,Economic Growth,0.6,0.6,0.1,0.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00076,2026-07-01T02:00:00+00:00,GDP,United Kingdom,Economic Growth,0.9,1.1,0.9,-0.2,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00077,2026-07-01T02:00:00+00:00,German Import Price Index,Germany,Inflation,0.7,0.4,1.2,0.3,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00078,2026-07-01T02:00:00+00:00,German Import Price Index,Germany,Inflation,6.8,,5.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00079,2026-07-01T02:00:00+00:00,German Retail Sales,Germany,Consumer & Retail,1.1,0.0,-0.4,1.1,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00080,2026-07-13T18:30:00+00:00,Performance of Services Index,New Zealand,Business Activity,50.6,,48.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00081,2026-07-14T05:15:00+00:00,Exports (USD),India,Macroeconomic Release,40410000000.0,,45200000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00082,2026-07-14T05:15:00+00:00,Imports (USD),India,Macroeconomic Release,70840000000.0,,73410000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00083,2026-07-14T05:15:00+00:00,Trade Balance,India,Macroeconomic Release,-30430000000.0,,-28210000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00084,2026-07-14T05:25:00+00:00,FOMC Member Bowman Speaks,United States,Monetary & Energy Policy,,,,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00085,2026-07-14T05:50:00+00:00,German 12-Month Bubill Auction,Germany,Macroeconomic Release,2.566,,2.478,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00086,2026-07-14T05:50:00+00:00,German 6-Month Bubill Auction,Germany,Macroeconomic Release,2.436,,2.331,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00087,2026-07-14T06:00:00+00:00,OPEC Meeting,United States,Monetary & Energy Policy,,,,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00088,2026-07-14T06:00:00+00:00,German Buba Monthly Report,Germany,Macroeconomic Release,,,,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00089,2026-07-14T06:30:00+00:00,CPI,India,Inflation,4.38,4.3,3.93,0.08,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00090,2026-07-23T02:00:00+00:00,Core CPI,United Kingdom,Inflation,2.6,2.5,2.6,0.1,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00091,2026-07-23T02:00:00+00:00,Core CPI,United Kingdom,Inflation,0.3,,0.3,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00092,2026-07-23T02:00:00+00:00,Core PPI Output,United Kingdom,Macroeconomic Release,2.6,,2.3,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00093,2026-07-23T02:00:00+00:00,Core PPI Output,United Kingdom,Macroeconomic Release,0.5,,0.7,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00094,2026-07-23T02:00:00+00:00,Core RPI,United Kingdom,Macroeconomic Release,2.9,,3.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00095,2026-07-23T02:00:00+00:00,Core RPI,United Kingdom,Macroeconomic Release,0.3,,0.2,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00096,2026-07-23T02:00:00+00:00,CPI,United Kingdom,Inflation,2.6,2.7,2.8,-0.1,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00097,2026-07-23T02:00:00+00:00,CPI,United Kingdom,Inflation,0.1,0.1,0.2,0.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00098,2026-07-23T02:00:00+00:00,"CPI, n.s.a",United Kingdom,Inflation,142.5,,142.4,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00099,2026-07-23T02:00:00+00:00,CPIH,United Kingdom,Inflation,2.8,,3.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00100,2026-08-05T02:30:00+00:00,Commodity Prices,Australia,Macroeconomic Release,15.4,,14.6,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00101,2026-08-05T02:45:00+00:00,French Government Budget Balance,France,Macroeconomic Release,-106800000000.0,,-93300000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00102,2026-08-05T03:00:00+00:00,Spanish Unemployment Change,Spain,Employment,19500.0,-18400.0,-28700.0,37900.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00103,2026-08-05T04:00:00+00:00,Italian Retail Sales,Italy,Consumer & Retail,-0.1,0.3,0.2,-0.4,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00104,2026-08-05T04:00:00+00:00,Italian Retail Sales,Italy,Consumer & Retail,3.1,,2.2,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00105,2026-08-05T04:00:00+00:00,IPC-Fipe Inflation Index,Brazil,Inflation,-0.03,,0.18,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00106,2026-08-05T04:30:00+00:00,Retail Sales,Hong Kong,Consumer & Retail,4.6,,7.9,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00107,2026-08-05T04:40:00+00:00,Spanish 12-Month Letras Auction,Spain,Macroeconomic Release,2.663,,2.5,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00108,2026-08-05T04:40:00+00:00,Spanish 6-Month Letras Auction,Spain,Macroeconomic Release,2.496,,2.385,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00109,2026-08-05T05:00:00+00:00,5-Year Treasury Gilt Auction,United Kingdom,Macroeconomic Release,4.613,,4.284,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00110,2026-08-15T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,5.3,,4.9,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00111,2026-08-15T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,0.2,-0.2,-0.7,0.4,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00112,2026-08-15T02:30:00+00:00,WPI Food,India,Macroeconomic Release,5.44,,5.49,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00113,2026-08-15T02:30:00+00:00,WPI Fuel,India,Macroeconomic Release,20.05,,27.41,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00114,2026-08-15T02:30:00+00:00,WPI Inflation,India,Inflation,9.78,9.95,9.87,-0.17,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00115,2026-08-15T02:30:00+00:00,WPI Manufacturing Inflation,India,Inflation,8.29,,7.48,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00116,2026-08-15T02:45:00+00:00,French CPI NSA,France,Inflation,0.6,,0.6,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00117,2026-08-15T02:45:00+00:00,French CPI NSA,France,Inflation,2.1,,2.1,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00118,2026-08-15T02:45:00+00:00,French CPI,France,Inflation,0.6,0.6,-0.3,0.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00119,2026-08-15T02:45:00+00:00,French CPI,France,Inflation,2.1,2.1,1.8,0.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00120,2026-08-25T01:00:00+00:00,Core CPI,Singapore,Inflation,2.0,,1.6,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00121,2026-08-25T01:00:00+00:00,CPI,Singapore,Inflation,-0.2,,0.0,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00122,2026-08-25T01:00:00+00:00,CPI,Singapore,Inflation,2.2,,1.9,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00123,2026-08-25T07:25:00+00:00,BCB Focus Market Readout,Brazil,Macroeconomic Release,,,,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00124,2026-08-25T08:30:00+00:00,Chicago Fed National Activity,United States,Monetary & Energy Policy,-0.08,,0.06,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00125,2026-08-25T08:30:00+00:00,Corporate Profits,Canada,Monetary & Energy Policy,9.7,,1.1,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00126,2026-08-25T08:30:00+00:00,Manufacturing Sales,Canada,Business Activity,-0.2,,0.1,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00127,2026-08-25T09:00:00+00:00,French 12-Month BTF Auction,France,Macroeconomic Release,2.832,,2.781,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00128,2026-08-25T09:00:00+00:00,French 3-Month BTF Auction,France,Macroeconomic Release,2.495,,2.484,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00129,2026-08-25T09:00:00+00:00,French 6-Month BTF Auction,France,Macroeconomic Release,2.675,,2.608,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00130,2026-09-05T02:00:00+00:00,German Factory Orders,Germany,Macroeconomic Release,2.5,0.3,3.7,2.2,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00131,2026-09-05T03:30:00+00:00,HCOB Italy Construction PMI,Italy,Business Activity,41.7,,49.1,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00132,2026-09-05T03:30:00+00:00,HCOB Germany Construction PMI,Germany,Business Activity,48.7,,42.1,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00133,2026-09-05T03:30:00+00:00,HCOB France Construction PMI,France,Business Activity,37.3,,41.5,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00134,2026-09-05T03:30:00+00:00,HCOB Eurozone Construction PMI,Euro Zone,Business Activity,43.0,,44.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00135,2026-09-05T04:00:00+00:00,Car Registration,United Kingdom,Macroeconomic Release,13.7,,11.7,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00136,2026-09-05T04:00:00+00:00,United Kingdom New Passenger Cars Registration,United Kingdom,Macroeconomic Release,94236.0,,156571.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00137,2026-09-05T04:00:00+00:00,Italian Retail Sales,Italy,Consumer & Retail,-0.4,0.2,-0.2,-0.6,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00138,2026-09-05T04:00:00+00:00,Italian Retail Sales,Italy,Consumer & Retail,0.8,,3.1,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00139,2026-09-05T04:30:00+00:00,S&P Global Construction PMI,United Kingdom,Business Activity,44.3,45.8,44.7,-1.5,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00140,2026-09-16T00:30:00+00:00,Tertiary Industry Activity Index,Japan,Macroeconomic Release,0.9,,5.4,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00141,2026-09-16T02:00:00+00:00,Average Earnings ex Bonus,United Kingdom,Macroeconomic Release,3.5,3.5,3.5,0.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00142,2026-09-16T02:00:00+00:00,Average Earnings Index +Bonus,United Kingdom,Macroeconomic Release,3.9,3.9,4.2,0.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00143,2026-09-16T02:00:00+00:00,Claimant Count Change,United Kingdom,Macroeconomic Release,27800.0,8300.0,-11800.0,19500.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00144,2026-09-16T02:00:00+00:00,Employment Change 3M/3M,United Kingdom,Employment,67000.0,,83000.0,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00145,2026-09-16T02:00:00+00:00,Unemployment Rate,United Kingdom,Monetary & Energy Policy,4.9,5.0,4.9,-0.1,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00146,2026-09-16T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,0.9,0.1,0.2,0.8,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00147,2026-09-16T02:00:00+00:00,German WPI,Germany,Macroeconomic Release,6.8,,5.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00148,2026-09-16T02:45:00+00:00,French CPI NSA,France,Inflation,0.7,,0.7,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00149,2026-09-16T02:45:00+00:00,French CPI NSA,France,Inflation,2.4,,2.4,,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00150,2026-09-28T19:50:00+00:00,Corporate Services Price Index (CSPI),Japan,Inflation,3.7,3.6,3.6,0.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00151,2026-09-28T19:50:00+00:00,Monetary Policy Meeting Minutes,Japan,Monetary & Energy Policy,,,,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00152,2026-09-28T21:30:00+00:00,Chinese Industrial profit YTD,China,Macroeconomic Release,15.7,,17.6,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00153,2026-09-29T01:00:00+00:00,Industrial Production,Singapore,Macroeconomic Release,-0.5,,2.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00154,2026-09-29T01:00:00+00:00,Industrial Production,Singapore,Macroeconomic Release,15.4,,6.9,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00155,2026-09-29T04:00:00+00:00,Italian Trade Balance Non-EU,Italy,Macroeconomic Release,2000000000.0,,6990000000.0,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00156,2026-09-29T05:30:00+00:00,ECB's Elderson Speaks,Euro Zone,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00157,2026-09-29T06:00:00+00:00,MPC Member Ramsden Speaks,United Kingdom,Macroeconomic Release,,,,,Low,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00158,2026-09-29T06:30:00+00:00,Cumulative Industrial Production,India,Macroeconomic Release,6.7,,6.3,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00159,2026-09-29T06:30:00+00:00,Industrial Production,India,Macroeconomic Release,8.0,6.5,7.4,1.5,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00160,2026-10-08T00:30:00+00:00,Cash Reserve Ratio,India,Macroeconomic Release,3.0,3.0,3.0,0.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00161,2026-10-08T00:30:00+00:00,Interest Rate Decision,India,Monetary & Energy Policy,5.5,5.5,5.25,0.0,High,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00162,2026-10-08T00:30:00+00:00,Reverse REPO Rate,India,Monetary & Energy Policy,3.35,,3.35,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00163,2026-10-08T01:00:00+00:00,Coincident Indicator,Japan,Macroeconomic Release,-1.9,,1.7,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00164,2026-10-08T01:00:00+00:00,Leading Index,Japan,Macroeconomic Release,0.4,,1.5,,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00165,2026-10-08T01:00:00+00:00,Leading Index,Japan,Macroeconomic Release,118.0,118.1,117.7,-0.1,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00166,2026-10-08T02:00:00+00:00,Lloyds House Price Index,United Kingdom,Inflation,0.0,0.0,-0.3,0.0,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00167,2026-10-08T02:00:00+00:00,German Industrial Production,Germany,Macroeconomic Release,2.0,0.5,-1.2,1.5,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00168,2026-10-08T02:00:00+00:00,German Industrial Production,Germany,Macroeconomic Release,2.33,0.7,-1.74,1.63,Medium,apify_economic_calendar,real_verified,GMT
+REAL-APIFY-00169,2026-10-08T02:00:00+00:00,Foreign Reserves (USD),South Africa,Macroeconomic Release,75430000000.0,,75950000000.0,,Medium,apify_economic_calendar,real_verified,GMT

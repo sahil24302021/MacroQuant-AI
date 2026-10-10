@@ -1,136 +1,40 @@
 article_id,source,title,url,published_at,text_length,summary_snippet,sentiment_score,sentiment_label,data_provenance
-NEWS-TAV-0001,tavily,"September 16, 2026: FOMC Projections materials, accessible version",https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm,,1098,"| Unemployment rate | 4.1 | 4.1 | 4.1 | 4.1 | 4.2 | 4.1–4.2 | 4.0–4.2 | 4.0–4.2 | 4.0–4.3 | 4.0–4.3 | 4.0–4.3 | 4.0–4.5 | 3.9–4.4 | 3.8–4.4 | 3.8–4.4 |
-| June projection | 4.3 | 4.3 | 4.2 |  | 4.2 | 4.3–4.4 | 4.2–4.5 | 4.1–4.3 |  | 4.0–4.3 | 4.3–4.6 | 4.0–4.6 | 4.0–4.4 |  | 3.8–4...",-0.5,dovish/negative,real_verified
-NEWS-TAV-0002,tavily,Speech by Vice Chair Jefferson on the economic outlook and the labor market - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm,,990,"For the U.S. as a whole, I see the economy as continuing to grow, led by resilient consumer spending and healthy business investment. The labor market is roughly in balance but susceptible to adverse shocks. Inflation remains above the Federal Reserve's 2 percent target. As a Fed...",0.0,neutral,real_verified
-NEWS-TAV-0003,tavily,CPI Home : U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi,,1012,"## Latest Numbers
-
-Consumer Price Index (CPI): +0.4% in Aug 2026
-
-Unemployment Rate: 4.2% in Sep 2026
-
-Payroll Employment: +29,000(p) in Sep 2026
-
-Average Hourly Earnings: +$0.05(p) in Sep 2026
-
-Producer Price Index - Final Demand: +0.4%(p) in Aug 2026
-
-Employment Cost Index (ECI...",0.0,neutral,real_verified
-NEWS-TAV-0004,tavily,"Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",https://www.newyorkfed.org/research/policy/outlook-at-risk,,1331,"For real GDP growth and CPI inflation, Outlook-at-Risk considers risks around the average quarterly growth rate over the next four quarters; however, for the unemployment rate it considers risks around the quarterly average in four quarters’ time. Why the difference? The time ser...",0.1667,hawkish/positive,real_verified
-NEWS-TAV-0005,tavily,Inflation Nowcasting,https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting,,1239,"### Revisions and special notices
-
-The Bureau of Labor Statistics did not release an October 2025 CPI report due to the suspension of federal government services. See this documentfor a detailed description of how the inflation nowcasting indicator handled the November 2025 CPI r...",0.0,neutral,real_verified
-NEWS-TAV-0006,tavily,Recent Economic and Financial Developments,https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-part1.htm,,1370,Note: The data extend through June 2026. Available jobs are employment plus job openings as of the end of the previous month. Available workers are the labor force. Data for employment and labor force before January 2026 are estimated by Federal Reserve Board staff to eliminate d...,-0.3333,dovish/negative,real_verified
-NEWS-TAV-0007,tavily,US economic forecast | Deloitte Insights,https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html,,1210,"### Prices
-
-Similar to the labor market data, inflation data has also been sending mixed messages. While the core consumer price index (CPI), which excludes food and energy prices, was up 2.4% in August, the core personal consumption expenditures (PCE) price index increased 3.4% ...",0.0,neutral,real_verified
-NEWS-TAV-0008,tavily,Second Quarter 2026 Survey of Professional Forecasters,https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/spf-q2-2026,,1244,"Measured on a fourth-quarter over fourth-quarter basis, headline CPI and core CPI inflation in 2026 are expected to average 3.5 percent and 2.9 percent, respectively, up from the previous estimates of 2.6 percent. In 2027 and 2028, these inflation measures are little changed comp...",1.0,hawkish/positive,real_verified
-NEWS-TAV-0009,tavily,Federal Reserve Economic Data | FRED | St. Louis Fed,https://fred.stlouisfed.org,,1440,"FRED Adds Data from the Annual Integrated Economic Survey
-
-Teaching about labor underutilization | Bring FRED into the Classroom | September 2026
-
-Connect your AI assistant to FRED
-
-Real GDP by state: Second quarter 2026
-
-What is the Treasury general account?
-
-Estimating the risk...",-1.0,dovish/negative,real_verified
-NEWS-TAV-0010,tavily,Charting the Economy - Federal Reserve Bank of Kansas City,https://www.kansascityfed.org/research/charting-the-economy,,1289,"## According to the Taylor Rule, the Federal Funds Rate Should Probably Be Higher—By How Much Is Uncertain
-
-     Charting the Economy  |  Inflation  |  Macroeconomics  |  Monetary Policy
-
-CtE26-FelixKiceRappaport  
-
-## Over Half of Surveyed Firms Report Decreased Profit Margins T...",1.0,hawkish/positive,real_verified
-NEWS-EXA-0011,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm,2026-10-08T00:00:00.000Z,12006,"Speech by Governor Waller on the economic outlook - Federal Reserve Board
-
-## Speech 
-
-October 08, 2026
-
-### The Signaling Value of the Summary of Economic Projections
-
- Governor Christopher J. Waller 
-
-At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Ista...",-0.0909,neutral,real_verified
-NEWS-EXA-0012,exa,"Summary of Economic Projections, September 16, 2026",https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260916.pdf?gsid=77ac5ec2-341c-41eb-bdb3-f04b92812b92,,32509,"## Summary of Economic Projections
-
-In conjunction with the Federal Open Market Committee (FOMC) meeting held on September 15–16, 2026, meeting participants submitted their projections of the most likely outcomes for real gross domestic product (GDP) growth, the unemployment rate...",-0.7609,dovish/negative,real_verified
-NEWS-EXA-0013,exa,Jobs report September 2026:,https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html,2026-10-02T12:31:42.000Z,5639,"# Jobs report September 2026:
-
-Author: Jeff Cox
-Published: 2026-10-02T12:31:42Z
-Source: cnbc.com
-Language: en
-
-## Story
-
-Jobs report September 2026:
-
-# Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%
-
-Published Fri, Oct 2 2026 8...",0.7,hawkish/positive,real_verified
-NEWS-EXA-0014,exa,Speech by Vice Chair Jefferson on the U.S. economy and monetary policy,https://www.federalreserve.gov/newsevents/speech/files/jefferson20261001a.pdf,,13595,"For release on delivery 1:30 p.m. EDT October 1, 2026
-
-The U.S. Economy and Monetary Policy
-
-Remarks by 
-Philip N. Jefferson 
-Vice Chair 
-Board of Governors of the Federal Reserve System 
-at 
-Darden School of Business 
-University of Virginia 
-Charlottesville, Virginia 
-
-October 1...",0.3333,hawkish/positive,real_verified
-NEWS-EXA-0015,exa,U.S. Inflation — Consumer Price Index for all Urban Consumers: 334.98,https://exa.ai/library/markets/economy/inflation?date=2026-10-10,2026-10-10T20:05:41.379Z,430,"# U.S. Inflation
-
-| Indicator | Value | Date |
-|-----------|-------|------|
-| Consumer Price Index for all Urban Consumers | 334.98 | 2026-08-01 |
-| Consumer Price Index for all Urban Consumers | 333.92 | 2026-07-01 |
-| Consumer Price Index for all Urban Consumers | 333.95 | 2026...",0.0,neutral,real_verified
-NEWS-EXA-0016,exa,The U.S. Economy: National Economic Outlook,https://www.newyorkfed.org/medialibrary/media/newsevents/speeches/2026/athreya-ibanys-presentation-october-2026.pdf,,11126,"The views here are of the presenter and do not necessarily represent those of the Federal Reserve Bank of New York or Federal Reserve System.
-
-The U.S. Economy: National Economic Outlook
-
-IBANYS Executive Leadership Symposium
-
-Hosted by the Independent Bankers Association of New ...",0.0952,neutral,real_verified
-NEWS-EXA-0017,exa,September Payrolls Rose 29K: October 14 CPI Is the Fed Test | MarketIntelLabs,https://marketintellabs.com/research/september-payrolls-cpi-fed-test,2026-10-09T00:00:00.000Z,1038,"September Payrolls Rose 29K: October 14 CPI Is the Fed Test | MarketIntelLabs
-
-# September Payrolls Rose 29K: October 14 CPI Is the Fed Test
-
-Sarah Chen Senior Macro Analyst
-
-Published October 9, 2026 3 min read
-
-A quiet grocery aisle evokes the consumer-price report that will te...",1.0,hawkish/positive,real_verified
-NEWS-EXA-0018,exa,US jobs report cools Fed rate hike bets: Why October CPI and record diesel prices now matter | Hindustan Times,https://www.hindustantimes.com/world-news/us-news/us-jobs-report-cools-fed-rate-hike-bets-why-october-cpi-and-record-diesel-prices-now-matter-101791198371546.html,2026-10-05T11:57:55.000Z,11173,"# US jobs report cools Fed rate hike bets: Why October CPI and record diesel prices now matter | Hindustan Times
-
-Author: Durva More
-Published: 2026-10-05T11:57:55Z
-Source: hindustantimes.com
-Language: en
-
-## Story
-
-US jobs report cools Fed rate hike bets: Why October CPI and rec...",0.5676,hawkish/positive,real_verified
-NEWS-EXA-0019,exa,"U.S. Nonfarm Payroll — Total Nonfarm Payroll: 159,238",https://exa.ai/library/markets/economy/nonfarm-payroll?date=2026-10-10,2026-10-10T20:07:44.444Z,326,"# U.S. Nonfarm Payroll
-
-| Indicator | Value | Date |
-|-----------|-------|------|
-| Total Nonfarm Payroll | 159,238 | 2026-09-01 |
-| Total Nonfarm Payroll | 158,905 | 2026-08-01 |
-| Total Nonfarm Payroll | 158,709 | 2026-07-01 |
-| Total Nonfarm Payroll | 159,734 | 2026-06-01 |
-| ...",0.0,neutral,real_verified
-NEWS-EXA-0020,exa,Federal Funds Rate — Effective Federal Funds Rate: 3.75%,https://exa.ai/library/markets/economy/fed-funds?date=2026-10-10,2026-10-10T20:06:13.762Z,349,"# Federal Funds Rate
-
-| Indicator | Value | Date |
-|-----------|-------|------|
-| Effective Federal Funds Rate | 3.75% | 2026-09-01 |
-| Effective Federal Funds Rate | 3.63% | 2026-08-01 |
-| Effective Federal Funds Rate | 3.63% | 2026-07-01 |
-| Effective Federal Funds Rate | 3.63%...",0.0,neutral,real_verified
+NEWS-TAV-0001,tavily,Federal Reserve issues FOMC statement,https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf,,1504,"202-452-2955. For release at 2:00 p.m. EDT September 16, 2026 Decisions Regarding Monetary Policy Implementation The Federal Reserve has made the following decisions to implement the monetary policy stance announced by the Federal Open Market Committee in its statement on Septemb...",-1.0,dovish/negative,real_verified
+NEWS-TAV-0002,tavily,"Federal Reserve Board - Implementation Note issued September 16, 2026",https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm,,1376,"The Board of Governors of the Federal Reserve System voted unanimouslyto raise the interest rate paid on reserve balances to 3.90 percent, effective September 17, 2026. As part of its policy decision, the Federal Open Market Committee voted to direct the Open Market Desk at the...",0.0,neutral,real_verified
+NEWS-TAV-0003,tavily,The Fed - Monetary Policy:,https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm,,1452,"Consistent with the Committee's decision to raise the target range for the federal funds rate to 3-3/4 to 4 percent, the Board of Governors of the Federal Reserve System voted unanimously to raise the interest rate paid on reserve balances to 3.90 percent, effective September 17,...",0.0,neutral,real_verified
+NEWS-TAV-0004,tavily,Why Did the Fed Raise Interest Rates in September 2026?,https://www.americancentury.com/insights/fed-watch/fed-interest-rate-decision,,1109,"Decision: As we expected, following recent hawkish comments from Federal Reserve (Fed) Board Chair Kevin Warsh, the Fed hiked interest rates. This action marked the first Fed rate increase since July 2023. Target Range: The Fed's rate hike pushed the federal funds target rate to...",1.0,hawkish/positive,real_verified
+NEWS-TAV-0005,tavily,"Fed raises rates in search of 'timelier' drop in inflation, sees ...",https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16,,141,"Fed lifts benchmark interest rate to 3.75%-4.00% range New projections show policy rate in 4.00%-4.25% range by end of 2026 .S. September 16,",-1.0,dovish/negative,real_verified
+NEWS-TAV-0006,tavily,"Fed approves interest rate hike, signals one more to come this year",https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html,,1262,"Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club Image 4: Join IC PRO Image 5: Join Pro Livestream Menu Federal Reserve # Fed approves interest rate hike, signals one more to come this year Published Wed, Sep 16 2026 2:00 PM EDT Upda...",0.3333,hawkish/positive,real_verified
+NEWS-TAV-0007,tavily,"The Fed - September 15-16, 2026 FOMC Meeting",https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260916.htm,,1171,"Projections Materials: PDF | HTML (Released September 16, 2026 at 2:00 p.m.) Minutes: PDF | HTML (Released October 07, 2026 at 2:00 p.m.) Back to Top Last Update: September 16, 2026 [...] The Federal Reserve, the central bank of the United States, provides the nation with a...",1.0,hawkish/positive,real_verified
+NEWS-TAV-0008,tavily,The Fed was unanimous about raising rates in September. Economic signals have since changed.,https://finance.yahoo.com/economy/policy/article/the-fed-was-unanimous-about-raising-rates-in-september-economic-signals-have-since-changed-184839972.html,,1074,"Federal Reserve Board Chairman Kevin Warsh speaks during a news conference at the Federal Reserve in Washington, Wednesday, Sept. 16, 2026. (AP Photo/Mark Schiefelbein) Federal Reserve Board Chairman Kevin Warsh speaks during a news conference at the Federal Reserve in Washingto...",0.6667,hawkish/positive,real_verified
+NEWS-TAV-0009,tavily,Federal Reserve issues FOMC statement,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm,,1109,Survey of Household Economics and Decisionmaking Research Publications & Data Analysis Community Advisory Council Resources for Consumers Frauds and Scams Mortgage and Foreclosure Resources Federal Reserve Commun...,1.0,hawkish/positive,real_verified
+NEWS-TAV-0010,tavily,Meeting calendars and information,https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm,,1448,Meeting associated with a Summary of Economic Projections. #### 2027 FOMC Meetings January 26-27 March 16-17 April 27-28 June 8-9 July 27-28 September 14-15 October 26-27 December 7-8 Meeting associated with a Summary of Economi...,0.0,neutral,real_verified
+NEWS-TAV-0011,tavily,"US Employment Situation (Non-Farm Payrolls) September 2026: Date, Time & What to Expect | Finance Calendar",https://www.financecalendar.com/event/us-employment-situation-non-farm-payrolls-september-2026,,2429,"Title: US Employment Situation (Non-Farm Payrolls) September 2026: Date, Time & What to Expect | Finance Calendar TUE 22 SEP**NEXT** AUSTRALIA LABOUR FORCE · RBA RATE DECISION **TUE**AUSTRALIA CPI **TUE**IS THE STOCK MARKET OPEN ON CITIZENS’ HOLIDAY (BRIDGE DAY) 2026? TSE/JPX HOU...",0.0,neutral,real_verified
+NEWS-TAV-0012,tavily,"September 2026 U.S. Economic Calendar: CPI, Jobs & Fed | FedRateCalc",https://fedratecalc.com/us-economic-calendar/september-2026,,1242,"| Date & time | Release | Period covered | Status | Official source | --- --- | Tue, Sep 1, 202610:00 AM ET | Job Openings and Labor Turnover Survey (JOLTS) | July 2026 | Released | U.S. Bureau of Labor Statistics | | Fri, Sep 4, 20268:30 AM ET | Employment Situation (Nonfarm...",0.0,neutral,real_verified
+NEWS-TAV-0013,tavily,US economic calendar August September 2026 CPI PPI PCE nonfarm payrolls initial jobless claims release dates at DuckDuckGo,https://html.duckduckgo.com/html?q=US+economic+calendar+August+September+2026+CPI+PPI+PCE+nonfarm+payrolls+initial+jobless+claims+release+dates,,2938,"Title: US economic calendar August September 2026 CPI PPI PCE nonfarm payrolls initial jobless claims release dates at DuckDuckGo ## US Economic Calendar 2026 — Fed, CPI, Jobs Dates & Live Odds | MacroOdds. Every major US macro **release** for the rest of **2026** — FOMC meetings...",0.0,neutral,real_verified
+NEWS-TAV-0014,tavily,US media: The US Bureau of Labor Statistics is expected to release CPI report during the shutdown | MEXC News,https://www.mexc.fm/en-TR/news/us-media-the-us-bureau-of-labor-statistics-is-expected-to-release-cpi-report-during-the-shutdown/124938,,2408,"Title: US media: The US Bureau of Labor Statistics is expected to release CPI report during the shutdown | MEXC News PANews reported on October 10th that the New York Times reported that a US government source stated that despite the federal government shutdown, the US Bureau of...",0.0,neutral,real_verified
+NEWS-TAV-0015,tavily,"Issues · BLS CPI Inflation, Unemployment & Labor Statistics API · Apify",https://apify.com/pink_comic/bls-economic-data-search/issues/closed,,2468,"Title: Issues · BLS CPI Inflation, Unemployment & Labor Statistics API · Apify BLS Economic Data Scraper - CPI Inflation & Jobs API avatar. BLS Economic Data Scraper - CPI Inflation & Jobs API. BLS economic data scraper/API for CPI inflation, unemployment, jobs, wages, JOLTS open...",0.0,neutral,real_verified
+NEWS-TAV-0016,tavily,Output · BLS API - Bureau of Labor Statistics Data · Apify,https://apify.com/alizarin_refrigerator-owner/bls-api---bureau-of-labor-statistics-data/output-schema,,2638,"Title: Output · BLS API - Bureau of Labor Statistics Data · Apify BLS API - Bureau of Labor Statistics Data avatar. BLS API - Bureau of Labor Statistics Data. Access Bureau of Labor Statistics data for employment, wages, prices, and productivity. Get unemployment rates, CPI infla...",0.0,neutral,real_verified
+NEWS-TAV-0017,tavily,BLS Labor Statistics Scraper · Apify,https://apify.com/crawlerbros/bls-labor-statistics-scraper,,2399,"Title: BLS Labor Statistics Scraper · Apify BLS Labor Statistics Scraper avatar. # BLS Labor Statistics Scraper. Fetch U.S. Bureau of Labor Statistics (BLS) time-series data - employment, unemployment, inflation (CPI), wages, and more - via the free BLS public API v1. Fetch U.S....",0.0,neutral,real_verified
+NEWS-TAV-0018,tavily,U.S. Bureau of Labor Statistics September 2025 CPI Report | Vega Economics,https://vegaeconomics.com/us-bureau-of-labor-statistics-september-2025-cpi-report,,722,"September’s Consumer Price Index (CPI) report from the U.S. Bureau of Labor Statistics showed that inflation rose 0.3 percent in September on a seasonally adjusted basis and 3.0 percent over the past 12 months. The report, delayed due to the recent government shutdown, indicates...",0.0,neutral,real_verified
+NEWS-TAV-0019,tavily,BLS API - Bureau of Labor Statistics Data OpenAPI definition · Apify,https://apify.com/alizarin_refrigerator-owner/bls-api---bureau-of-labor-statistics-data/api/openapi,,1464,"Extract labor market data from the U.S. Bureau of Labor Statistics (BLS). Pull unemployment rate, total nonfarm payrolls, CPI inflation, median weekly earnings, and any BLS time series by ID. Returns latest values with month-over-month and year-over-year percent changes. Free API...",0.0,neutral,real_verified
+NEWS-TAV-0020,tavily,Issues · BLS API - Bureau of Labor Statistics Data · Apify,https://apify.com/alizarin_refrigerator-owner/bls-api---bureau-of-labor-statistics-data/issues/open,,1292,"# BLS API - Bureau of Labor Statistics Data alizarin\_refrigerator-owner/bls-api---bureau-of-labor-statistics-data Access Bureau of Labor Statistics data for employment, wages, prices, and productivity. Get unemployment rates, CPI inflation, job openings, wage data by industry...",0.0,neutral,real_verified
+NEWS-EXA-0021,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm,2026-10-08T00:00:00.000Z,12006,"Speech by Governor Waller on the economic outlook - Federal Reserve Board ## Speech October 08, 2026 ### The Signaling Value of the Summary of Economic Projections Governor Christopher J. Waller At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Ista...",-0.0909,neutral,real_verified
+NEWS-EXA-0022,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/waller20260713a.htm,2026-07-13T00:00:00.000Z,18773,"Speech by Governor Waller on the economic outlook - Federal Reserve Board ## Speech July 13, 2026 ### Monetary Policy at a Crossroads Governor Christopher J. Waller At the New York Association for Business Economics, New York, New York Thank you, Yelena, and thank you fo...",-0.2333,dovish/negative,real_verified
+NEWS-EXA-0023,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,http://www.federalreserve.gov/newsevents/speech/waller20260903a.htm,,17341,Speech by Governor Waller on the economic outlook - Federal Reserve Board Skip to main content US Flag An official website of the United States Government Here's how you knowExpand More .gov icon **Official websites use .gov** A **.gov** website belongs to an official government...,0.3077,hawkish/positive,real_verified
+NEWS-EXA-0024,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm,,21028,"Speech by Governor Waller on the economic outlook - Federal Reserve Board ## Speech April 17, 2026 ### One Transitory Shock After Another Governor Christopher J. Waller At the David Kaserman Memorial Lecture, Department of Economics, Auburn University, Auburn, Alabama Th...",-0.2857,dovish/negative,real_verified
+NEWS-EXA-0025,exa,Speech by Governor Waller on the economic outlook,https://www.federalreserve.gov/newsevents/speech/waller20260223a.htm,2026-02-23T00:00:00.000Z,17598,"Speech by Governor Waller on the economic outlook - Federal Reserve Board ## Speech February 23, 2026 ### Labor Market Data: Signal or Noise? Governor Christopher J. Waller At The Great Realignment: Navigating AI, Demographic and Geoeconomic Change, 42nd Annual NABE Econo...",-0.2174,dovish/negative,real_verified
+NEWS-EXA-0026,exa,Lecture by Governor Waller on the economic outlook,https://www.federalreserve.gov/newsevents/speech/waller20260522a.htm,,19998,"Lecture by Governor Waller on the economic outlook - Federal Reserve Board ## Speech May 22, 2026 ### Policy Risks Have Changed Governor Christopher J. Waller At The Centre for Central Banking Guest Lecture, Frankfurt School of Finance and Management, Frankfurt, Germany...",-0.2424,dovish/negative,real_verified
+NEWS-EXA-0027,exa,Speech by Governor Waller on the economic outlook,https://www.federalreserve.gov/newsevents/speech/files/waller20261008a.pdf,,12147,"For release on delivery 4:30 a.m. EDT (11:30 a.m. local time) October 8, 2026 The Signaling Value of the Summary of Economic Projections Remarks by Christopher J. Waller Member Board of Governors of the Federal Reserve System at the Istanbul Economic Forum Central Bank...",-0.0909,neutral,real_verified
+NEWS-EXA-0028,exa,Christopher J Waller: Monetary policy at a crossroads,https://www.bis.org/review/r260730l.pdf,,18722,"Christopher J Waller: Monetary policy at a crossroads Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the New York Association for Business Economics, New York City, 13 July 2026. * * * Thank you, Yelena, and thank you for t...",-0.2333,dovish/negative,real_verified
+NEWS-EXA-0029,exa,Speech by Governor Waller on monetary policy - Federal Reserve Board — When the Fed Speaks,http://whenthefedspeaks.com/doc/speech_20260706_waller,2026-07-06T22:16:05.000Z,8419,"Speech by Governor Waller on monetary policy - Federal Reserve Board — When the Fed Speaks # Speech by Governor Waller on monetary policy - Federal Reserve Board Christopher J. Waller · Governor July 06, 2026 Two Thoughts on the Transmission of Monetary Policy Governor Chr...",1.0,hawkish/positive,real_verified
+NEWS-EXA-0030,exa,Two thoughts on the transmission of monetary policy | Bank for International Settlements,https://www.bis.org/speeches/20260730-two-thoughts-transmission-monetary-policy,2026-07-30T12:00:00.000Z,8321,"Two thoughts on the transmission of monetary policy | Bank for International Settlements # Two thoughts on the transmission of monetary policy By Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the ChaMP Conference ""Challen...",1.0,hawkish/positive,real_verified
+NEWS-EXA-0031,exa,"The Fed - September 16, 2026: FOMC Projections materials, accessible version",https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm,,40647,"The Fed - September 16, 2026: FOMC Projections materials, accessible version ## Federal Open Market Committee ### Accessible version For release at 2:00 p.m., EDT, September 16, 2026 #### Summary of Economic Projections In conjunction with the Federal Open Market Committee...",-0.7619,dovish/negative,real_verified
+NEWS-EXA-0032,exa,"Summary of Economic Projections, September 16, 2026",https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260916.pdf,,32509,"## Summary of Economic Projections In conjunction with the Federal Open Market Committee (FOMC) meeting held on September 15–16, 2026, meeting participants submitted their projections of the most likely outcomes for real gross domestic product (GDP) growth, the unemployment rate...",-0.7609,dovish/negative,real_verified
+NEWS-EXA-0033,exa,Federal Reserve Board - Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm,2026-09-16T00:00:00.000Z,639,"Federal Reserve Board - Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting ## Press Release September 16, 2026 ### Federal Reserve Board and Federal Open Market Committee release economic projections from...",0.0,neutral,real_verified
+NEWS-EXA-0034,exa,"FOMC Summary of Economic Projections, September 2026 | FRED Blog",https://fred.stlouisfed.org/blog/2026/09/fomc-summary-of-economic-projections-september-2026,2026-09-21T22:30:09.000Z,3257,"FOMC Summary of Economic Projections, September 2026 | FRED Blog # FOMC Summary of Economic Projections, September 2026 Posted on September 21, 2026 In a previous FRED Blog post, we discussed the Summary of Economic Projections (SEP) released by the FOMC this past June. In thi...",1.0,hawkish/positive,real_verified
+NEWS-EXA-0036,exa,"Minutes of the Federal Open Market Committee -- September 15-16, 2026",https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20260916.pdf,,36344,"## FOMC FEDERAL RESERVE SYSTEM Minutes of the Federal Open Market Committee September 15–16, 2026 ### Minutes of the Federal Open Market Committee September 15–16, 2026 A joint meeting of the Federal Open Market Committee and the Board of Governors of the Federal Reserve...",0.3519,hawkish/positive,real_verified
+NEWS-EXA-0037,exa,Summary of Economic Projections — When the Fed Speaks,https://whenthefedspeaks.com/doc/sep_20260916,2026-09-16T08:11:04.000Z,32024,"Summary of Economic Projections — When the Fed Speaks sep · September 16, 2026 # Summary of Economic Projections For release at 2:00 p.m., EDT, September 16, 2026 Summary of Economic Projections In conjunction with the Federal Open Market Committee (FOMC) meeting held on Sep...",-0.7634,dovish/negative,real_verified
+NEWS-EXA-0038,exa,The Fed - Guide to the Summary of Economic Projections,http://federalreserve.gov/monetarypolicy/guide-to-the-summary-of-economic-projections.htm,,17052,The Fed - Guide to the Summary of Economic Projections Skip to main content US Flag An official website of the United States Government Here's how you knowExpand More .gov icon **Official websites use .gov** A **.gov** website belongs to an official government organization in the...,-0.5769,dovish/negative,real_verified
+NEWS-EXA-0039,exa,"U.S. FOMC Meeting (September 15-16, 2026) - TD Economics",https://economics.td.com/us-fomc-statement,2026-09-16T00:00:00.000Z,3137,"TD Economics - U.S. FOMC Meeting (September 15-16, 2026) ## Thomas Feltmate, Director & Senior Economist | 416-944-5730 Date Published: September 16, 2026 ## Fed hikes after extended pause, signals more tightening ahead The Federal Open Market Committee (FOMC) raised the po...",0.4667,hawkish/positive,real_verified
+NEWS-EXA-0040,exa,September 2026 FOMC Recap - MUFG Research,https://www.mufgresearch.com/rates/september-2026-fomc-recap/,,4272,"September 2026 FOMC Recap - MUFG Research # September 2026 FOMC Recap Fed hikes rates 25bps (even as doves cry)… - By George Goncalves, Agron Nicaj, Erin Chouinard - Sep 16, 2026 Warsh leading the hawkish charge, meanwhile SEPs suffer from recency bias - Although the 25bp r...",0.7273,hawkish/positive,real_verified
