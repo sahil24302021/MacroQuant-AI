@@ -1,0 +1,29 @@
+{
+  "evaluation": "expanding_window_walk_forward",
+  "data_status": "synthetic_demo_not_real_market_evidence",
+  "market_return_source": "synthetic_random_normal_simulation",
+  "disclaimer": "Market returns and strategy PnL are synthetic Monte Carlo demonstrations, not real market evidence or trade executions.",
+  "folds_completed": 3,
+  "training_observations_available": 1074,
+  "out_of_sample_strategy_rows": 540,
+  "out_of_sample_dates": 90,
+  "selected_strategy_metrics": {
+    "observations": 90,
+    "mean_daily_return": -0.0006546906700748213,
+    "annualized_sharpe": -1.0110239782740271,
+    "annualized_sortino": -1.343056876484283,
+    "max_drawdown": -0.10185236310372703,
+    "cumulative_return": -0.061673687944455824
+  },
+  "baseline_best_single_strategy": {
+    "strategy": "momentum",
+    "metrics": {
+      "observations": 90,
+      "mean_daily_return": 0.00013618350124978209,
+      "annualized_sharpe": 0.2459478741171862,
+      "annualized_sortino": 0.3337995519024586,
+      "max_drawdown": -0.09136893292972648,
+      "cumulative_return": 0.008845615832758114
+    }
+  }
+}

@@ -1,0 +1,11 @@
+event_id,timestamp_utc,event_name,country,category,actual,forecast,previous,surprise,impact,source,data_provenance,timezone_original
+REAL-APIFY-00001,2026-10-05T06:00:00+00:00,OPEC Meeting,United States,Monetary & Energy Policy,,,,,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00002,2026-10-05T18:00:00+00:00,S&P Global Manufacturing & Services PMI,Australia,Business Activity,51.3,50.8,,0.5,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00003,2026-10-05T18:00:00+00:00,S&P Global Services PMI,Australia,Business Activity,51.9,51.4,,0.5,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00004,2026-10-05T20:00:00+00:00,MI Inflation Gauge,Australia,Inflation,0.3,,,,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00005,2026-10-05T20:00:00+00:00,ANZ Commodity Price Index,New Zealand,Inflation,0.6,,,,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00006,2026-10-05T20:30:00+00:00,Manufacturing & Services PMI,Japan,Business Activity,52.3,52.5,,-0.2,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00007,2026-10-05T20:30:00+00:00,S&P Global Services PMI,Japan,Business Activity,51.3,51.6,,-0.3,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00008,2026-10-06T01:00:00+00:00,Household Confidence,Japan,Consumer & Retail,35.4,35.3,,0.1,Medium,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00009,2026-10-06T01:00:00+00:00,Retail Sales,Singapore,Consumer & Retail,0.7,,,,High,apify_economic_calendar,real_verified,unspecified
+REAL-APIFY-00010,2026-10-06T01:00:00+00:00,Retail Sales,Singapore,Consumer & Retail,-1.0,,,,High,apify_economic_calendar,real_verified,unspecified

@@ -1,0 +1,136 @@
+article_id,source,title,url,published_at,text_length,summary_snippet,sentiment_score,sentiment_label,data_provenance
+NEWS-TAV-0001,tavily,"September 16, 2026: FOMC Projections materials, accessible version",https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm,,1098,"| Unemployment rate | 4.1 | 4.1 | 4.1 | 4.1 | 4.2 | 4.1–4.2 | 4.0–4.2 | 4.0–4.2 | 4.0–4.3 | 4.0–4.3 | 4.0–4.3 | 4.0–4.5 | 3.9–4.4 | 3.8–4.4 | 3.8–4.4 |
+| June projection | 4.3 | 4.3 | 4.2 |  | 4.2 | 4.3–4.4 | 4.2–4.5 | 4.1–4.3 |  | 4.0–4.3 | 4.3–4.6 | 4.0–4.6 | 4.0–4.4 |  | 3.8–4...",-0.5,dovish/negative,real_verified
+NEWS-TAV-0002,tavily,Speech by Vice Chair Jefferson on the economic outlook and the labor market - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/jefferson20260407a.htm,,990,"For the U.S. as a whole, I see the economy as continuing to grow, led by resilient consumer spending and healthy business investment. The labor market is roughly in balance but susceptible to adverse shocks. Inflation remains above the Federal Reserve's 2 percent target. As a Fed...",0.0,neutral,real_verified
+NEWS-TAV-0003,tavily,CPI Home : U.S. Bureau of Labor Statistics,https://www.bls.gov/cpi,,1012,"## Latest Numbers
+
+Consumer Price Index (CPI): +0.4% in Aug 2026
+
+Unemployment Rate: 4.2% in Sep 2026
+
+Payroll Employment: +29,000(p) in Sep 2026
+
+Average Hourly Earnings: +$0.05(p) in Sep 2026
+
+Producer Price Index - Final Demand: +0.4%(p) in Aug 2026
+
+Employment Cost Index (ECI...",0.0,neutral,real_verified
+NEWS-TAV-0004,tavily,"Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",https://www.newyorkfed.org/research/policy/outlook-at-risk,,1331,"For real GDP growth and CPI inflation, Outlook-at-Risk considers risks around the average quarterly growth rate over the next four quarters; however, for the unemployment rate it considers risks around the quarterly average in four quarters’ time. Why the difference? The time ser...",0.1667,hawkish/positive,real_verified
+NEWS-TAV-0005,tavily,Inflation Nowcasting,https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting,,1239,"### Revisions and special notices
+
+The Bureau of Labor Statistics did not release an October 2025 CPI report due to the suspension of federal government services. See this documentfor a detailed description of how the inflation nowcasting indicator handled the November 2025 CPI r...",0.0,neutral,real_verified
+NEWS-TAV-0006,tavily,Recent Economic and Financial Developments,https://www.federalreserve.gov/monetarypolicy/2026-07-mpr-part1.htm,,1370,Note: The data extend through June 2026. Available jobs are employment plus job openings as of the end of the previous month. Available workers are the labor force. Data for employment and labor force before January 2026 are estimated by Federal Reserve Board staff to eliminate d...,-0.3333,dovish/negative,real_verified
+NEWS-TAV-0007,tavily,US economic forecast | Deloitte Insights,https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html,,1210,"### Prices
+
+Similar to the labor market data, inflation data has also been sending mixed messages. While the core consumer price index (CPI), which excludes food and energy prices, was up 2.4% in August, the core personal consumption expenditures (PCE) price index increased 3.4% ...",0.0,neutral,real_verified
+NEWS-TAV-0008,tavily,Second Quarter 2026 Survey of Professional Forecasters,https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/spf-q2-2026,,1244,"Measured on a fourth-quarter over fourth-quarter basis, headline CPI and core CPI inflation in 2026 are expected to average 3.5 percent and 2.9 percent, respectively, up from the previous estimates of 2.6 percent. In 2027 and 2028, these inflation measures are little changed comp...",1.0,hawkish/positive,real_verified
+NEWS-TAV-0009,tavily,Federal Reserve Economic Data | FRED | St. Louis Fed,https://fred.stlouisfed.org,,1440,"FRED Adds Data from the Annual Integrated Economic Survey
+
+Teaching about labor underutilization | Bring FRED into the Classroom | September 2026
+
+Connect your AI assistant to FRED
+
+Real GDP by state: Second quarter 2026
+
+What is the Treasury general account?
+
+Estimating the risk...",-1.0,dovish/negative,real_verified
+NEWS-TAV-0010,tavily,Charting the Economy - Federal Reserve Bank of Kansas City,https://www.kansascityfed.org/research/charting-the-economy,,1289,"## According to the Taylor Rule, the Federal Funds Rate Should Probably Be Higher—By How Much Is Uncertain
+
+     Charting the Economy  |  Inflation  |  Macroeconomics  |  Monetary Policy
+
+CtE26-FelixKiceRappaport  
+
+## Over Half of Surveyed Firms Report Decreased Profit Margins T...",1.0,hawkish/positive,real_verified
+NEWS-EXA-0011,exa,Speech by Governor Waller on the economic outlook - Federal Reserve Board,https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm,2026-10-08T00:00:00.000Z,12006,"Speech by Governor Waller on the economic outlook - Federal Reserve Board
+
+## Speech 
+
+October 08, 2026
+
+### The Signaling Value of the Summary of Economic Projections
+
+ Governor Christopher J. Waller 
+
+At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Ista...",-0.0909,neutral,real_verified
+NEWS-EXA-0012,exa,"Summary of Economic Projections, September 16, 2026",https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260916.pdf?gsid=77ac5ec2-341c-41eb-bdb3-f04b92812b92,,32509,"## Summary of Economic Projections
+
+In conjunction with the Federal Open Market Committee (FOMC) meeting held on September 15–16, 2026, meeting participants submitted their projections of the most likely outcomes for real gross domestic product (GDP) growth, the unemployment rate...",-0.7609,dovish/negative,real_verified
+NEWS-EXA-0013,exa,Jobs report September 2026:,https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html,2026-10-02T12:31:42.000Z,5639,"# Jobs report September 2026:
+
+Author: Jeff Cox
+Published: 2026-10-02T12:31:42Z
+Source: cnbc.com
+Language: en
+
+## Story
+
+Jobs report September 2026:
+
+# Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%
+
+Published Fri, Oct 2 2026 8...",0.7,hawkish/positive,real_verified
+NEWS-EXA-0014,exa,Speech by Vice Chair Jefferson on the U.S. economy and monetary policy,https://www.federalreserve.gov/newsevents/speech/files/jefferson20261001a.pdf,,13595,"For release on delivery 1:30 p.m. EDT October 1, 2026
+
+The U.S. Economy and Monetary Policy
+
+Remarks by 
+Philip N. Jefferson 
+Vice Chair 
+Board of Governors of the Federal Reserve System 
+at 
+Darden School of Business 
+University of Virginia 
+Charlottesville, Virginia 
+
+October 1...",0.3333,hawkish/positive,real_verified
+NEWS-EXA-0015,exa,U.S. Inflation — Consumer Price Index for all Urban Consumers: 334.98,https://exa.ai/library/markets/economy/inflation?date=2026-10-10,2026-10-10T20:05:41.379Z,430,"# U.S. Inflation
+
+| Indicator | Value | Date |
+|-----------|-------|------|
+| Consumer Price Index for all Urban Consumers | 334.98 | 2026-08-01 |
+| Consumer Price Index for all Urban Consumers | 333.92 | 2026-07-01 |
+| Consumer Price Index for all Urban Consumers | 333.95 | 2026...",0.0,neutral,real_verified
+NEWS-EXA-0016,exa,The U.S. Economy: National Economic Outlook,https://www.newyorkfed.org/medialibrary/media/newsevents/speeches/2026/athreya-ibanys-presentation-october-2026.pdf,,11126,"The views here are of the presenter and do not necessarily represent those of the Federal Reserve Bank of New York or Federal Reserve System.
+
+The U.S. Economy: National Economic Outlook
+
+IBANYS Executive Leadership Symposium
+
+Hosted by the Independent Bankers Association of New ...",0.0952,neutral,real_verified
+NEWS-EXA-0017,exa,September Payrolls Rose 29K: October 14 CPI Is the Fed Test | MarketIntelLabs,https://marketintellabs.com/research/september-payrolls-cpi-fed-test,2026-10-09T00:00:00.000Z,1038,"September Payrolls Rose 29K: October 14 CPI Is the Fed Test | MarketIntelLabs
+
+# September Payrolls Rose 29K: October 14 CPI Is the Fed Test
+
+Sarah Chen Senior Macro Analyst
+
+Published October 9, 2026 3 min read
+
+A quiet grocery aisle evokes the consumer-price report that will te...",1.0,hawkish/positive,real_verified
+NEWS-EXA-0018,exa,US jobs report cools Fed rate hike bets: Why October CPI and record diesel prices now matter | Hindustan Times,https://www.hindustantimes.com/world-news/us-news/us-jobs-report-cools-fed-rate-hike-bets-why-october-cpi-and-record-diesel-prices-now-matter-101791198371546.html,2026-10-05T11:57:55.000Z,11173,"# US jobs report cools Fed rate hike bets: Why October CPI and record diesel prices now matter | Hindustan Times
+
+Author: Durva More
+Published: 2026-10-05T11:57:55Z
+Source: hindustantimes.com
+Language: en
+
+## Story
+
+US jobs report cools Fed rate hike bets: Why October CPI and rec...",0.5676,hawkish/positive,real_verified
+NEWS-EXA-0019,exa,"U.S. Nonfarm Payroll — Total Nonfarm Payroll: 159,238",https://exa.ai/library/markets/economy/nonfarm-payroll?date=2026-10-10,2026-10-10T20:07:44.444Z,326,"# U.S. Nonfarm Payroll
+
+| Indicator | Value | Date |
+|-----------|-------|------|
+| Total Nonfarm Payroll | 159,238 | 2026-09-01 |
+| Total Nonfarm Payroll | 158,905 | 2026-08-01 |
+| Total Nonfarm Payroll | 158,709 | 2026-07-01 |
+| Total Nonfarm Payroll | 159,734 | 2026-06-01 |
+| ...",0.0,neutral,real_verified
+NEWS-EXA-0020,exa,Federal Funds Rate — Effective Federal Funds Rate: 3.75%,https://exa.ai/library/markets/economy/fed-funds?date=2026-10-10,2026-10-10T20:06:13.762Z,349,"# Federal Funds Rate
+
+| Indicator | Value | Date |
+|-----------|-------|------|
+| Effective Federal Funds Rate | 3.75% | 2026-09-01 |
+| Effective Federal Funds Rate | 3.63% | 2026-08-01 |
+| Effective Federal Funds Rate | 3.63% | 2026-07-01 |
+| Effective Federal Funds Rate | 3.63%...",0.0,neutral,real_verified

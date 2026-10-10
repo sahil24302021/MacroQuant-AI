@@ -1,0 +1,24 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Generated model artifacts
+data/processed/*.joblib
+
+# Raw API downloads and generated predictions
+data/raw/*.csv
+data/raw/*.json
+reports/walk_forward_predictions.csv
+
+# OS / editor
+.DS_Store
+.vscode/
