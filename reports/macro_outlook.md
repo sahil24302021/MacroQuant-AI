@@ -26,7 +26,7 @@ This report synthesizes intelligence from **169 verified macroeconomic calendar 
 
 Surprise values (`actual - forecast`) are calculated only for calendar releases where both a numeric actual print and a consensus forecast were published. For releases without consensus forecasts, surprises are intentionally left undefined (`null`) rather than replaced with zeros or guesses.
 
-Across the 180-day horizon, **66 calendar events** had published consensus forecasts: **39 surprised to the upside** and **17 surprised to the downside**.
+Across the 180-day horizon, **66 calendar events** had published consensus forecasts: **39 surprised to the upside**, **17 surprised to the downside**, and **10 met consensus exactly**.
 
 ### Representative Major Calendar Releases
 

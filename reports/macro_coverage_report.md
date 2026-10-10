@@ -64,9 +64,9 @@ Key outcomes:
 ## 4. Surprise Spread Distribution
 
 Of the 66 events with published consensus forecasts:
-- **Upside Surprises ($actual > forecast$):** **37 events (56.1%)**
-- **Downside Surprises ($actual < forecast$):** **26 events (39.4%)**
-- **In-Line Releases ($actual == forecast$):** **3 events (4.5%)**
+- **Upside Surprises ($actual > forecast$):** **39 events (59.1%)**
+- **Downside Surprises ($actual < forecast$):** **17 events (25.8%)**
+- **In-Line Releases ($actual == forecast$):** **10 events (15.2%)**
 
 ### Representative Major Releases
 

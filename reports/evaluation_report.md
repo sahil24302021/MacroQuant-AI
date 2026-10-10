@@ -12,7 +12,7 @@
 This evaluation report presents quantitative results from the `MacroQuant-AI` research framework, establishing an explicit, rigorous boundary between **genuine historical market backtesting on real asset prices** and **synthetic Monte Carlo pipeline verification**.
 
 Key findings:
-1. **Real-World 180-Day Macro Backfill:** Collected and validated **169 genuine macroeconomic calendar releases** (spanning 2026-04-15 to 2026-10-08) via Apify Actor `scrapers_lat~economic-calendar-scraper`, and **40 verified financial articles/central bank speeches** via Tavily and Exa. Numeric values were sanitized to strictly finite floats, non-breaking spaces (`&nbsp;`) were unescaped, and missing consensus surveys were preserved as `null` rather than manufactured zero spreads.
+1. **Real-World 180-Day Macro Backfill:** Collected and validated **169 genuine macroeconomic calendar releases** (spanning 2026-04-15 to 2026-10-08) via Apify Actor `scrapers_lat~economic-calendar-scraper`, and **39 verified unique financial publications/central bank speeches** (deduplicated from 40 raw results across Tavily and Exa). Numeric values were sanitized to strictly finite floats, non-breaking spaces (`&nbsp;`) were unescaped, and missing consensus surveys were preserved as `null` rather than manufactured zero spreads.
 2. **Genuine Historical Market Backtest (SPY, Real Data):** Evaluated against authentic daily OHLCV prices of **SPY (SPDR S&P 500 ETF Trust)** via Yahoo Finance across 246 trading sessions, with **123 days evaluated strictly out-of-sample** across 3 expanding walk-forward folds with realistic 2 bps transaction fees.
    - The **ML Dynamic Strategy Selector** achieved an out-of-sample cumulative return of **+1.86%**, an annualized Sharpe ratio of **+0.3713**, a Sortino ratio of **+0.6605**, and a maximum drawdown of **-6.50%**.
    - The **Benchmark (SPY Buy & Hold)** over the same out-of-sample window yielded **+11.80%**, an annualized Sharpe ratio of **+1.9605**, a Sortino ratio of **+3.1629**, and a maximum drawdown of **-4.49%**.
@@ -28,7 +28,7 @@ Key findings:
 | **SPY Market Prices** | Yahoo Finance (`yfinance`) | 246 trading days (1 Year) | Authentic equity price discovery benchmark | `real_yahoo_finance` | Verified live |
 | **Economic Calendar** | Apify (`scrapers_lat~economic-calendar-scraper`) | 180 days (169 releases across 19 countries) | Actual macro indicator surprises & shocks | `real_verified` | Verified live (18 intervals) |
 | **Financial Search** | Tavily Search API | 20 articles (Fed decisions, BLS releases) | Financial news sentiment & tone tracking | `real_verified` | Verified live |
-| **Neural Web Search** | Exa AI Search API | 20 articles (Governor Waller speech, SEP tables) | Deep primary central bank documentation | `real_verified` | Verified live with full extracted text |
+| **Neural Web Search** | Exa AI Search API | 19 unique articles (20 raw) (Governor Waller speech, SEP tables) | Deep primary central bank documentation | `real_verified` | Verified live with full extracted text |
 | **Simulated Market** | NumPy Generator (`seed=2026`) | 180 days (Synthetic random walk) | Baseline pipeline & ML code validation | `synthetic_demo` | Pure synthetic Monte Carlo |
 
 ### Data Cleaning & Integrity Protocol
