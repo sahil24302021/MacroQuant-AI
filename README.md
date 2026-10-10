@@ -132,7 +132,7 @@ python -m ruff check src scripts tests
 
 ### Data Reconciliation Note
 - **SPY Price Bars:** 257 daily bars were downloaded. A 10-day rolling lookback for momentum and a 1-day forward shift for execution targets leave **246 aligned observations** (123 training, 123 out-of-sample).
-- **Macro Events:** 169 real events were collected across 18 sampling intervals from Apify. (180 separate demo events exist for synthetic testing).
+- **Macro Events:** 169 real events were collected across 18 sampling intervals from Apify (154 published actuals, 66 published consensus forecasts: 39 beats/upside, 17 misses/downside, 10 in-line; 103 without forecasts recorded as null). 180 separate demo events exist for synthetic testing.
 - **News Articles:** 40 raw query responses yielded **39 unique articles** after URL deduplication (one shared FOMC SEP link).
 
 ### Generated Reports
@@ -145,7 +145,7 @@ python -m ruff check src scripts tests
 
 ## Data Sources & Limitations
 
-1. **Economic Calendar:** Scraped from Nasdaq public calendar via Apify actor `scrapers_lat~economic-calendar-scraper`. The actor returns 10 items per chunk without native pagination; we sampled 18 distinct date windows to span the 180-day window. 66 of 169 events had consensus estimates published.
+1. **Economic Calendar:** Scraped from Nasdaq public calendar via Apify actor `scrapers_lat~economic-calendar-scraper`. The actor returns 10 items per chunk without native pagination; we sampled 18 distinct date windows to span the 180-day window. 154 releases had published actuals; 66 had consensus estimates published (39 upside beats, 17 downside misses, 10 in-line; 103 without consensus recorded as null).
 2. **News Sentiment:** Scored using a deterministic financial keyword dictionary (+0.09 avg score). It serves as a descriptive tone index, not a directional price forecast.
 3. **Daily Frequency:** The backtest operates on daily close prices. It does not model intraday volatility or execution in the minutes immediately following a release.
 4. **Active vs. Passive Performance:** During a strong equity bull market (+11.80% SPY return over the out-of-sample window), passive holding outperformed active rebalancing, as active switching incurred cash drag and 2 bps transaction fees.
